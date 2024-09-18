@@ -1,11 +1,6 @@
 # QLMI
 Matlab Implementation of the paper "Model-Free LQR Design by Q-function Learning."
 
-## Table of Contents
-- [Overview](#overview)
-- [Paper and Citation](#paper-and-citation)
-- [License](#license)
-
 ## Overview
 This repository provides a Matlab implementation of model-free Linear Quadratic Regulator (LQR) controllers. It covers approaches such as:
 - **Policy Iteration**
@@ -22,7 +17,7 @@ If you use this code in your research, please cite the following paper:
 
 - Authors: Milad Farjadnasab, Maryam Babazadeh
 - Journal: Automatica
-- DOI: [(https://doi.org/10.1016/j.automatica.2021.110060)]
+- DOI: https://doi.org/10.1016/j.automatica.2021.110060
 
 ### Citation in BibTeX format:
 ```bibtex
